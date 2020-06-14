@@ -15,7 +15,7 @@ As with all of my simple learning projects, just fork it.
 * __David Wilcox__ - *All work to this point* - [@davidtwilcox](https://twitter.com/davidtwilcox)
 
 ## License
-This project is licensed under the Apache 2.0 license - see the LICENSE.md file for details.
+This project is licensed under the MIT license - see the LICENSE.md file for details.
 
 ## Acknowledgments
 Thank you to Bob Nystrom for the wonderful tutorial on crafting interpreters. Read his site.
