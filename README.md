@@ -18,5 +18,5 @@ As with all of my simple learning projects, just fork it.
 This project is licensed under the MIT license - see the LICENSE.md file for details.
 
 ## Acknowledgments
-Thank you to Bob Nystrom ([@munificentbob](https://twitter.com/munificentbob))for the wonderful tutorial on crafting interpreters. 
+Thank you to Bob Nystrom ([@munificentbob](https://twitter.com/munificentbob)) for the wonderful tutorial on crafting interpreters. 
 Read his site. Also read his book *Game Programming Patterns* if you're into that kind of thing.
